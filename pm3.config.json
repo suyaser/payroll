@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "name": "castle-dashboard Server",
+      "script": "./dist/server/www.js",
+      "env": {
+        "NODE_ENV": "development"
+      },
+      "env_production": {
+        "NODE_ENV": "production"
+      }
+    },
+    {
+      "name": "castle-dashboard Client",
+      "script": "./startClient.js",
+      "cwd": "./",
+      "env": {
+        "NODE_ENV": "development"
+      },
+      "env_production": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}

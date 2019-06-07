@@ -1,0 +1,10 @@
+
+{
+  "apps": [
+    {
+      "name": "castle-dashboard",
+      "script": "./src/server/index.js",
+      "exec_interpreter": "babel-node"
+    }
+  ]
+}
