@@ -20,7 +20,7 @@
     "@coreui/react": "^2.0.5",
     "@reach/router": "^1.1.1",
     "async": "^2.6.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-cli": "^6.26.0",
     "babel-jest": "^23.6.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
