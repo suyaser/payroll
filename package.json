@@ -19,7 +19,7 @@
     "@coreui/icons": "^0.3.0",
     "@coreui/react": "^2.0.5",
     "@reach/router": "^1.1.1",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
     "babel-jest": "^23.6.0",
