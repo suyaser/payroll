@@ -42,7 +42,7 @@
     "install": "^0.12.2",
     "kue": "^0.11.6",
     "match-sorter": "^2.3.0",
-    "mongoose": "^5.2.15",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node-cmd": "^3.0.0",
     "node-datetime": "^2.1.0",
